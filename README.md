@@ -1,2 +1,2 @@
-# bluetrip2248
- 2248
+Versão final do projeto final do módulo de web
+contem: Flask (SQLALchemy), html, css, Javascript.
